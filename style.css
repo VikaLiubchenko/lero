@@ -1,0 +1,98 @@
+body {
+    color: darkgreen;
+    font-family: Marker Felt, fantasy;
+}
+
+.navbar-brand {
+    color: darkgreen; 
+    font-size: 30px; 
+}
+.navbar-nav .nav-link {
+    color: darkgreen; 
+    margin-right: 40px; 
+    margin-left: 40px;
+    font-size: 20px; 
+    
+}
+
+
+.carousel-item img {
+    width: 1250px; 
+    height: auto; 
+    display: block; 
+    margin: 10px auto;
+    border-radius: 15px;
+}
+
+.carousel-caption {
+    backdrop-filter: blur(10px); 
+    background-color: rgba(255, 255, 255, 0.5); 
+    border-radius: 15px; 
+    padding: 20px; 
+    max-width: 60%; 
+    margin: 0 auto;
+}
+.carousel-caption h5 {
+
+    font-size: 50px; 
+    font-family: Marker Felt, fantasy;
+    color: darkgreen;
+}
+
+.carousel-caption p {
+    
+    font-size: 20px; 
+    font-family: Marker Felt, fantasy;
+    color: darkgreen;
+}
+
+h1{
+    margin: 40px 40px 40px 40px;
+}
+
+
+
+.card {
+    border: 2px solid green; 
+    border-radius: 10px; 
+    margin-bottom: 20px; 
+}
+   
+.btn-success {
+    background-color: green; 
+    border-color: green; 
+}
+
+.alert-success {
+    background-color: green; 
+    border-color: green; 
+    color: white; 
+   
+}
+
+.info {
+    border: 2px solid darkgreen; 
+    border-radius: 10px; 
+    padding: 10px; 
+    margin-top: 20px;
+    clear: both;
+    display: flex;
+    flex-wrap: wrap; 
+}
+
+.contact {
+    margin: 40px 100px 20px 100px; 
+}
+
+.all {
+    margin: 40px 100px 20px 40px; 
+}
+
+.email {
+    margin: 40px 100px 20px 40px; 
+}
+
+.social-icon {
+    font-size: 24px;
+    padding: 10px 5px 5px 5px;
+}
